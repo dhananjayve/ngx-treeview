@@ -1,15 +1,22 @@
-# ngx-treeview [![Build Status](https://travis-ci.org/leovo2708/ngx-treeview.svg?branch=master)](https://travis-ci.org/leovo2708/ngx-treeview) [![npm version](https://badge.fury.io/js/ngx-treeview.svg)](https://badge.fury.io/js/ngx-treeview)
+
+
+
+
+
+# ngx-treeview 
 
 An Angular treeview component with checkbox
+This lib is fork of [ngx-treeview](https://github.com/leovo2708/ngx-treeview) lib
+I have just upgraded angular version 13 and bootstrap 5
+check original Auther and package at https://github.com/leovo2708/ngx-treeview 
 
 ## Dependencies
 
-- [Angular](https://angular.io)
+- [Angular 13](https://angular.io)
 - [Lodash](https://lodash.com)
-- [Bootstrap 4](https://getbootstrap.com)
+- [Bootstrap 5](https://getbootstrap.com)
 
-This component is currently supporting Bootstrap 4. If you are using Bootstrap 4 alpha 6, please downgrade to the older version 1.0.10.
-
+This component is currently supporting Bootstrap 5. 
 You can customize CSS yourself to break down dependencies to Bootstrap.
 
 ## Features
@@ -21,9 +28,6 @@ You can customize CSS yourself to break down dependencies to Bootstrap.
 - Template
 - Checkbox with tri-state
 
-## Demo
-
-[https://leovo2708.github.io/ngx-treeview/](https://leovo2708.github.io/ngx-treeview/)
 
 ## Installation
 
