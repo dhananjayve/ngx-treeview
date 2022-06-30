@@ -1,6 +1,6 @@
 {
     "name": "dj-ngx-treeview",
-    "version": "13.0.1",
+    "version": "13.1.0",
     "license": "MIT",
     "description": "An Angular treeview component with checkbox",
     "keywords": [

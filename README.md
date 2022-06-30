@@ -3,7 +3,7 @@
 
 
 
-# ngx-treeview 
+# dj-ngx-treeview 
 
 An Angular treeview component with checkbox
 This lib is fork of [ngx-treeview](https://github.com/leovo2708/ngx-treeview) lib
